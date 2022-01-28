@@ -1,4 +1,4 @@
-package Virtual Key for Your Repositories;
+package Assessment 1;
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
