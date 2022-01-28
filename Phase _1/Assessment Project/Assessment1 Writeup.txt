@@ -1,0 +1,28 @@
+                Project Name: Virtual Key for Your Repositories
+
+
+Project Description:
+
+        In this Project I developed a prototype of the application. In which it can display name and developer details.
+The details of the User Interface such as options displaying the User Interactions information and features to 
+accept the user input to select one of the options Listed.
+
+       In this project it will display the welcome information and then ask for the user interaction as accessing files 
+in the given folder, Display menu for File Operations and exit application. In Display menu options we can add, delete & search 
+a file in the folder.
+
+To complete this project the following steps are used:
+    
+    *Created a class named File Operations, in which implemented the following methods:
+                 -Method to Create a folder if not exist in the given file.
+                 -Method to return the list of files that are available in the given folder. 
+                 -Method to add it to folder in the file.
+                 -Method to delete a file from the given file.
+                 -Method to search a file in the given file 
+                 -If file doesn't exists return- FNF.
+
+     *Created a class named Menu in which we developed welcome screen, menu Options by using   the following methods:
+                  -Print the welcome screen with application name and developer details.(Open,Menu,Second). 
+                  -To print given list of menu option. 
+    
+     *Select a class name options to choose which operation we need use to using  the switch cases.
